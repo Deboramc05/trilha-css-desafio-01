@@ -1,0 +1,22 @@
+@import url('reset.css');
+
+body {
+    background-color: rgb(15, 9, 9);
+  }
+
+  h2 {
+    font-size: 2rem;
+    color: #33A8DB;
+    font-weight: bold;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    margin-bottom: 24px;
+  }
+
+  p {
+    color: white;
+  }
+
+  section {
+    margin: 100px auto;
+  }
